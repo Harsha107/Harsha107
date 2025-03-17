@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harshadeep</h1>
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;AI+Enthusiast;Always+Learning+New+Tech!" />
 </p>
 
 ---
 
 ## 🌐 Connect with me:
-<p align="center">
+<p>
   <a href="https://instagram.com/k.harsha.10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/harshadeep-chowdary-kommareddi-353027276/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:harshadeep107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 ---
 
 ## 💻 Tech Stack:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -48,7 +48,7 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=harsha107&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=harsha107&theme=dark&hide_border=false"/>
@@ -58,6 +58,6 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://visitcount.itsvg.in/api?id=harsha107&icon=0&color=0"/>
 </p>
