@@ -48,7 +48,7 @@
 👀 **Visitor Count:**  
 
 <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<harsha107>"/>
+            src="https://widgetbite.com/stats/<Harsha107>"/>
 
 ---
 
