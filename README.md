@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack:
 ```yaml
 💻 Languages:        C, Java, JavaScript, TypeScript, Python, HTML, CSS
-⚡ Frameworks:       React, Next.js, FastAPI, Streamlit, TailwindCSS
+⚡ Frameworks:       React, Next.js, FastAPI, Streamlit, TailwindCSS, LangGraph
 📊 Data Science:     NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras, PyTorch, SciPy
 🛠️ Tools & DevOps:   Postman, Power BI, Plotly, Vercel
 ```
